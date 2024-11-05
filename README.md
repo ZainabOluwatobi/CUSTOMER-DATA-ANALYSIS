@@ -15,6 +15,7 @@ The data was analyzed using the following steps:
 
 ![SUBSCRIPTION DATA VISUAL](https://github.com/user-attachments/assets/6f5c299d-c4f4-495a-997a-b87ef9eb4389)
 
+![SUBSCRIPTION DATA VISUAL 3](https://github.com/user-attachments/assets/4a22a5bc-050b-4530-890f-099aed75f776)
 
 ## CONCLUSION
 This analysis predicts a discount subscription price on the Standard and Premium package to improve upgrade by customers.
