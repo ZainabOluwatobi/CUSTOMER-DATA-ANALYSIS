@@ -12,5 +12,8 @@ The data was analyzed using the following steps:
 - The basic subscription generates the most revenue, and it has the highest number of customers.
 - Out of 75,000 custmers, 33,750 have cancelled their subscription. and 41,250 still have active subscription.
 - The highest revenue was generated in the South.
+
+![SUBSCRIPTION DATA VISUAL](https://github.com/user-attachments/assets/6f5c299d-c4f4-495a-997a-b87ef9eb4389)
+
 ## CONCLUSION
 ThIS analysis predicts a discount subscription price on the Standard and Premium package to improve upgrade by customers.
